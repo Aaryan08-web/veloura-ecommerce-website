@@ -1,0 +1,36 @@
+services:
+  server:
+    build: ./server
+    container_name: veloura-server
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+      - CLIENT_URL=http://localhost:3000
+      - MONGO_URI=${MONGODB_URI}
+      - JWT_SECRET=${JWT_SECRET:-change_this_to_a_long_random_secret}
+      - JWT_EXPIRES_IN=${JWT_EXPIRES_IN:-7d}
+      - ADMIN_JWT_SECRET=${ADMIN_JWT_SECRET:-change_this_to_a_different_long_random_secret}
+      - ADMIN_NAME=${ADMIN_NAME:-Admin}
+      - ADMIN_EMAIL=${ADMIN_EMAIL:-admin@veloura.com}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-Admin@12345}
+      - RAZORPAY_KEY_ID=${RAZORPAY_KEY_ID}
+      - RAZORPAY_KEY_SECRET=${RAZORPAY_KEY_SECRET}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.0-flash}
+      - SMTP_HOST=${SMTP_HOST}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_USER=${SMTP_USER}
+      - SMTP_PASS=${SMTP_PASS}
+      - EMAIL_FROM=${EMAIL_FROM}
+
+  client:
+    build: .
+    container_name: veloura-client
+    restart: unless-stopped
+    depends_on:
+      - server
+    ports:
+      - "3000:80"

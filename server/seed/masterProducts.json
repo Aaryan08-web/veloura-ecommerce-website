@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "vel-m-ts-01",
+    "name": "Aura Heavyweight Boxy Tee",
+    "slug": "aura-heavyweight-boxy-tee",
+    "description": "Constructed from 280 GSM combed organic cotton, this signature boxy tee features dropped shoulders, a reinforced ribbed collar, and a relaxed architectural silhouette that holds its shape all day.",
+    "price": 75,
+    "originalPrice": 90,
+    "discount": 17,
+    "category": "T-Shirts",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Chalk White",
+        "hex": "#F4F2EE"
+      },
+      {
+        "name": "Washed Olive",
+        "hex": "#4A5340"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 42,
+    "isNew": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 24,
+    "material": "100% Combed Organic Cotton (280 GSM)",
+    "fit": "Boxy, oversized silhouette with dropped shoulders",
+    "careInstructions": [
+      "Machine wash cold inside out",
+      "Do not tumble dry",
+      "Warm iron if needed"
+    ],
+    "details": [
+      "Ribbed 1.25\" neckband",
+      "Pre-shrunk treatment",
+      "Blind stitched hem and cuffs"
+    ]
+  },
+  {
+    "id": "vel-m-ts-02",
+    "name": "Minimal Mercerized Crew Tee",
+    "slug": "minimal-mercerized-crew-tee",
+    "description": "An understated luxury staple crafted from double-mercerized Egyptian cotton with a subtle silk-like sheen. Breathable, exceptionally soft, and tailored with refined seams for effortless layering.",
+    "price": 85,
+    "category": "T-Shirts",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Slate Gray",
+        "hex": "#3B4048"
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1B2430"
+      },
+      {
+        "name": "Bone",
+        "hex": "#EBE7DF"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 28,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "stock": 18,
+    "material": "100% Double-Mercerized Egyptian Cotton",
+    "fit": "Modern regular fit",
+    "careInstructions": [
+      "Hand wash or delicate machine wash cold",
+      "Lay flat to dry"
+    ],
+    "details": [
+      "Double mercerized for deep color retention",
+      "Laser-cut tagless interior"
+    ]
+  },
+  {
+    "id": "vel-m-sh-01",
+    "name": "Atelier Relaxed Linen Overshirt",
+    "slug": "atelier-relaxed-linen-overshirt",
+    "description": "Woven from pure Normandy flax linen, this relaxed overshirt combines clean utilitarian lines with relaxed modern drape. Features horn buttons and subtle patch chest pockets.",
+    "price": 165,
+    "originalPrice": 195,
+    "discount": 15,
+    "category": "Shirts",
+    "gender": "men",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Raw Ecru",
+        "hex": "#E8E3D7"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#141824"
+      },
+      {
+        "name": "Desert Clay",
+        "hex": "#8B5E43"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 34,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 12,
+    "material": "100% Normandy Flax Linen",
+    "fit": "Relaxed unstructured drape",
+    "careInstructions": [
+      "Dry clean or delicate cold wash",
+      "Hang dry in shade"
+    ],
+    "details": [
+      "Real matte horn buttons",
+      "Reinforced gusset side vents"
+    ]
+  },
+  {
+    "id": "vel-m-sh-02",
+    "name": "Monochrome Poplin Camp Shirt",
+    "slug": "monochrome-poplin-camp-shirt",
+    "description": "Crisp Japanese cotton poplin shaped with a Cuban camp collar and clean straight hem. Designed to be worn open over our Aura tee or buttoned for a streamlined modernist profile.",
+    "price": 130,
+    "category": "Shirts",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Chalk White",
+        "hex": "#F4F2EE"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#121212"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 19,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 22,
+    "material": "100% Japanese Cotton Poplin",
+    "fit": "Contemporary straight cut",
+    "careInstructions": [
+      "Machine wash warm",
+      "Medium iron with steam"
+    ],
+    "details": [
+      "Camp open collar",
+      "Straight bottom hem with side slits"
+    ]
+  },
+  {
+    "id": "vel-m-jn-01",
+    "name": "Kuroki Selvedge Straight Jeans",
+    "slug": "kuroki-selvedge-straight-jeans",
+    "description": "Spun on vintage shuttle looms in Okayama, Japan. 13.5oz red-line selvedge denim that breaks in to your unique wear patterns over time. Finished with custom antique nickel hardware.",
+    "price": 220,
+    "originalPrice": 260,
+    "discount": 15,
+    "category": "Jeans",
+    "gender": "men",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Raw Indigo",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Washed Black",
+        "hex": "#2A2B2D"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 56,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 15,
+    "material": "100% Japanese Selvedge Cotton (13.5 oz)",
+    "fit": "Classic straight leg with medium rise",
+    "careInstructions": [
+      "Wash sparingly inside-out with cold water",
+      "Hang dry only"
+    ],
+    "details": [
+      "Authentic red selvedge ID line",
+      "Hand-hammered copper rivets",
+      "Custom debossed leather patch"
+    ]
+  },
+  {
+    "id": "vel-m-jn-02",
+    "name": "Aura Wide-Leg Drape Denim",
+    "slug": "aura-wide-leg-drape-denim",
+    "description": "A progressive wide-leg cut with a gentle taper at the hem. Stonewashed to achieve a vintage lived-in texture with deep highs and lows in the grain.",
+    "price": 180,
+    "category": "Jeans",
+    "gender": "men",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Washed Charcoal",
+        "hex": "#373A3E"
+      },
+      {
+        "name": "Vintage Light Blue",
+        "hex": "#778EA8"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 31,
+    "isNew": true,
+    "stock": 20,
+    "material": "100% Organic Denim Cotton (12 oz)",
+    "fit": "Voluminous wide leg silhouette",
+    "careInstructions": [
+      "Machine wash cold",
+      "Line dry"
+    ],
+    "details": [
+      "Stacked hem finish",
+      "Deep front hand pockets"
+    ]
+  },
+  {
+    "id": "vel-m-hd-01",
+    "name": "Structure French Terry Hoodie",
+    "slug": "structure-french-terry-hoodie",
+    "description": "Heavyweight 450 GSM loopback cotton fleece crafted without drawstrings for an uncompromising minimalist look. Double-layered crossover hood and concealed seamless side pockets.",
+    "price": 145,
+    "originalPrice": 170,
+    "discount": 15,
+    "category": "Hoodies",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Heather Oatmeal",
+        "hex": "#D6D2CA"
+      },
+      {
+        "name": "Forest Moss",
+        "hex": "#2E382E"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 68,
+    "isNew": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 27,
+    "material": "100% Organic French Terry Cotton (450 GSM)",
+    "fit": "Subtly cropped boxy body with elongated sleeves",
+    "careInstructions": [
+      "Machine wash cold inside out",
+      "Flat dry recommended"
+    ],
+    "details": [
+      "No drawstrings for pure minimalist line",
+      "Double-lined architectural hood",
+      "Inseam hidden kangaroo pocket"
+    ]
+  },
+  {
+    "id": "vel-m-hd-02",
+    "name": "Velour Minimalist Zip Hoodie",
+    "slug": "velour-minimalist-zip-hoodie",
+    "description": "Elevated two-way metal zipper hoodie made with custom brushed cotton fleece. Clean raglan sleeve construction with discreet tonal embroidery at the wrist.",
+    "price": 155,
+    "category": "Hoodies",
+    "gender": "men",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Espresso Brown",
+        "hex": "#2C1D18"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#121212"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 22,
+    "stock": 14,
+    "material": "80% Organic Cotton, 20% Recycled Poly",
+    "fit": "Relaxed athletic drape",
+    "careInstructions": [
+      "Wash gentle cold",
+      "Tumble dry low or line dry"
+    ],
+    "details": [
+      "Two-way YKK brushed silver zipper",
+      "Micro-rib cuffs and waistband"
+    ]
+  },
+  {
+    "id": "vel-m-jk-01",
+    "name": "Double-Faced Wool Atelier Coat",
+    "slug": "double-faced-wool-atelier-coat",
+    "description": "An investment statement coat spun from unlined double-faced virgin wool. Masterfully hand-finished seams, notched lapels, and a relaxed drop shoulder create a commanding editorial presence.",
+    "price": 385,
+    "originalPrice": 450,
+    "discount": 14,
+    "category": "Jackets",
+    "gender": "men",
+    "sizes": [
+      "38R",
+      "40R",
+      "42R",
+      "44R"
+    ],
+    "colors": [
+      {
+        "name": "Midnight Black",
+        "hex": "#0F1014"
+      },
+      {
+        "name": "Camel Tan",
+        "hex": "#A88454"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 5,
+    "reviewCount": 39,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 9,
+    "material": "90% Italian Virgin Wool, 10% Cashmere",
+    "fit": "Relaxed tailored overcoat silhouette",
+    "careInstructions": [
+      "Specialist dry clean only"
+    ],
+    "details": [
+      "Hand-stitched perimeter seams",
+      "Deep welt hand-warmer pockets",
+      "Unlined interior with contrast piping"
+    ]
+  },
+  {
+    "id": "vel-m-jk-02",
+    "name": "Aura Technical Matte Bomber",
+    "slug": "aura-technical-matte-bomber",
+    "description": "A contemporary reinterpretation of the MA-1 flight jacket. Crafted in water-repellent Japanese matte nylon with lightweight PrimaLoft insulation and tonal gunmetal hardware.",
+    "price": 245,
+    "category": "Jackets",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Slate Graphite",
+        "hex": "#26292E"
+      },
+      {
+        "name": "Deep Sage",
+        "hex": "#3E4940"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 47,
+    "isNew": true,
+    "stock": 19,
+    "material": "Matte Recycled Nylon Shell / PrimaLoft Fill",
+    "fit": "Voluminous body with articulated sleeves",
+    "careInstructions": [
+      "Machine wash delicate cold",
+      "Do not iron"
+    ],
+    "details": [
+      "Water-repellent finish (DWR)",
+      "Internal passport chest pocket"
+    ]
+  },
+  {
+    "id": "vel-m-tr-01",
+    "name": "Pleated Wide Atelier Trousers",
+    "slug": "pleated-wide-atelier-trousers",
+    "description": "Expertly tailored with double front reverse pleats and a sweeping wide leg that cascades gracefully over leather boots or sneakers. Crafted in a wrinkle-resistant tropical wool blend.",
+    "price": 190,
+    "originalPrice": 220,
+    "discount": 14,
+    "category": "Trousers",
+    "gender": "men",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Charcoal Pinstripe",
+        "hex": "#2E3033"
+      },
+      {
+        "name": "Sand Taupe",
+        "hex": "#B8ABA0"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 38,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 16,
+    "material": "60% Wool, 38% Recycled Poly, 2% Elastane",
+    "fit": "High rise with sweeping wide leg",
+    "careInstructions": [
+      "Dry clean or gentle cold hand wash"
+    ],
+    "details": [
+      "Double reverse front pleats",
+      "Concealed hook-and-bar waistband",
+      "Generous hem allowance for tailoring"
+    ]
+  },
+  {
+    "id": "vel-m-tr-02",
+    "name": "Minimal Elastic Waist Wool Pant",
+    "slug": "minimal-elastic-waist-wool-pant",
+    "description": "Bridging high tailoring with effortless everyday comfort. Features an encased elastic waistband with an internal drawstring and clean tapered leg silhouette.",
+    "price": 175,
+    "category": "Trousers",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Dark Navy",
+        "hex": "#161B26"
+      },
+      {
+        "name": "Graphite Gray",
+        "hex": "#313338"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 25,
+    "stock": 21,
+    "material": "Fine Italian Stretch Wool Blend",
+    "fit": "Tapered cropped leg with mid-rise waist",
+    "careInstructions": [
+      "Dry clean recommended"
+    ],
+    "details": [
+      "Hidden drawcord inside waistband",
+      "Clean side slash pockets"
+    ]
+  },
+  {
+    "id": "vel-w-tp-01",
+    "name": "Mulberry Silk Asymmetric Top",
+    "slug": "mulberry-silk-asymmetric-top",
+    "description": "An architectural statement piece in 19-momme sandwashed mulberry silk. Draped with an asymmetric neckline, diagonal hemline, and fluid side gathering that catches the light naturally.",
+    "price": 160,
+    "originalPrice": 190,
+    "discount": 16,
+    "category": "Tops",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Champagne Pearl",
+        "hex": "#EDE6D6"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Burgundy Noir",
+        "hex": "#4A1525"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 52,
+    "isNew": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 14,
+    "material": "100% Grade 6A Mulberry Silk (Sandwashed)",
+    "fit": "Fluid bias drape",
+    "careInstructions": [
+      "Dry clean or cold silk wash with pH neutral detergent",
+      "Steam iron low"
+    ],
+    "details": [
+      "Asymmetrical one-shoulder drape",
+      "French seam internal construction",
+      "Seamless double-lined bodice"
+    ]
+  },
+  {
+    "id": "vel-w-tp-02",
+    "name": "Aura Ribbed High-Neck Tank",
+    "slug": "aura-ribbed-high-neck-tank",
+    "description": "Finely spun modal-cotton rib with micro-cut armholes and a chic sculpted high collar. Stretches comfortably to contour the body with subtle compression.",
+    "price": 65,
+    "category": "Tops",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Pure White",
+        "hex": "#FAF9F6"
+      },
+      {
+        "name": "Onyx",
+        "hex": "#18181B"
+      },
+      {
+        "name": "Warm Cocoa",
+        "hex": "#634832"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 44,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 35,
+    "material": "92% Tencel Modal, 8% Spandex",
+    "fit": "Fitted second-skin silhouette",
+    "careInstructions": [
+      "Machine wash gentle cold",
+      "Dry flat"
+    ],
+    "details": [
+      "Racerback cut cutaways",
+      "Double-needle fine topstitching"
+    ]
+  },
+  {
+    "id": "vel-w-dr-01",
+    "name": "Siren Column Backless Maxi Dress",
+    "slug": "siren-column-backless-maxi-dress",
+    "description": "Effortless drama and modern restraint. Crafted in heavyweight Italian crepe jersey with an open cowl back, high boat neck, and dramatic floor-skimming column silhouette.",
+    "price": 260,
+    "originalPrice": 310,
+    "discount": 16,
+    "category": "Dresses",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Sculptural Black",
+        "hex": "#101012"
+      },
+      {
+        "name": "Crimson Scarlet",
+        "hex": "#7A1C20"
+      },
+      {
+        "name": "Alabaster Ivory",
+        "hex": "#F2EFE9"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 5,
+    "reviewCount": 61,
+    "isNew": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 11,
+    "material": "95% Matte Viscose Crepe, 5% Elastane",
+    "fit": "Column maxi length with subtle stretch",
+    "careInstructions": [
+      "Dry clean only"
+    ],
+    "details": [
+      "Deep cowl open back",
+      "Concealed side zipper",
+      "Floor-skimming side slit"
+    ]
+  },
+  {
+    "id": "vel-w-dr-02",
+    "name": "Minimalist Poplin Slip Midi Dress",
+    "slug": "minimalist-poplin-slip-midi-dress",
+    "description": "A versatile modern wardrobe hero with delicate adjustable spaghetti straps, square neckline, and subtle A-line flare that moves gracefully with every stride.",
+    "price": 185,
+    "category": "Dresses",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Espresso",
+        "hex": "#33221B"
+      },
+      {
+        "name": "Olive Bronze",
+        "hex": "#54553B"
+      },
+      {
+        "name": "Chalk White",
+        "hex": "#F5F3ED"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 36,
+    "stock": 17,
+    "material": "100% Organic Washed Cotton Poplin",
+    "fit": "Effortless relaxed midi silhouette",
+    "careInstructions": [
+      "Machine wash cold",
+      "Warm iron"
+    ],
+    "details": [
+      "Self-fabric adjustable straps",
+      "Side seam hidden pockets"
+    ]
+  },
+  {
+    "id": "vel-w-jn-01",
+    "name": "Palazzo High-Waist Wide Jeans",
+    "slug": "palazzo-high-waist-wide-jeans",
+    "description": "Designed to elongate the frame with a sky-high waist and dramatic palazzo flare. Crafted in authentic 100% organic cotton rigid denim with subtle hand-scraping on the seams.",
+    "price": 195,
+    "originalPrice": 230,
+    "discount": 15,
+    "category": "Jeans",
+    "gender": "women",
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Stone Blue",
+        "hex": "#587399"
+      },
+      {
+        "name": "Pure Chalk",
+        "hex": "#EBE9E1"
+      },
+      {
+        "name": "Faded Black",
+        "hex": "#2C2D30"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 49,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 22,
+    "material": "100% Organic Rigid Cotton Denim (12.5 oz)",
+    "fit": "Ultra high-rise fitted hip, wide sweeping leg",
+    "careInstructions": [
+      "Wash cold inside out",
+      "Hang dry"
+    ],
+    "details": [
+      "12\" ultra-high rise",
+      "Raw frayed or clean hem options",
+      "Engraved Veloura button"
+    ]
+  },
+  {
+    "id": "vel-w-jn-02",
+    "name": "Studio Straight Ankle Denim",
+    "slug": "studio-straight-ankle-denim",
+    "description": "The definitive straight-leg jeans with 1% comfort stretch. Cut to hit cleanly at the ankle bone, making them the ideal silhouette for loafers, heels, or boots.",
+    "price": 175,
+    "category": "Jeans",
+    "gender": "women",
+    "sizes": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
+    "colors": [
+      {
+        "name": "Raw Midnight Blue",
+        "hex": "#1C2942"
+      },
+      {
+        "name": "Washed Ash",
+        "hex": "#4B4D54"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 30,
+    "isNew": false,
+    "stock": 26,
+    "material": "99% Organic Cotton, 1% Comfort Elastane",
+    "fit": "Straight leg cut with ankle graze",
+    "careInstructions": [
+      "Cold wash",
+      "Do not tumble dry"
+    ],
+    "details": [
+      "Reinforced waistband that will not stretch out",
+      "Classic 5-pocket styling"
+    ]
+  },
+  {
+    "id": "vel-w-hd-01",
+    "name": "Cocoon Cropped Fleece Hoodie",
+    "slug": "cocoon-cropped-fleece-hoodie",
+    "description": "Sculpted with exaggerated batwing sleeves, cinchable hem cord, and a softly lined hood. Made from plush organic bamboo cotton fleece for luxurious lounge or streetwear looks.",
+    "price": 135,
+    "originalPrice": 160,
+    "discount": 16,
+    "category": "Hoodies",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Muted Sand",
+        "hex": "#DDD2C3"
+      },
+      {
+        "name": "Pitch Black",
+        "hex": "#141416"
+      },
+      {
+        "name": "Sage Blossom",
+        "hex": "#879585"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 43,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 20,
+    "material": "70% Organic Bamboo, 30% Cotton Fleece",
+    "fit": "Boxy crop with cocoon rounded sleeves",
+    "careInstructions": [
+      "Machine wash cold on delicate",
+      "Dry flat"
+    ],
+    "details": [
+      "Concealed elastic waist bungee cord",
+      "Drop shoulder volume"
+    ]
+  },
+  {
+    "id": "vel-w-hd-02",
+    "name": "Aura Oversized Tonal Sweatshirt",
+    "slug": "aura-oversized-tonal-sweatshirt",
+    "description": "Subtle luxury in heavy fleece. Finished with dropped shoulders, deep ribbed cuffs, and blind-stitch tonal branding across the lower back hem.",
+    "price": 125,
+    "category": "Hoodies",
+    "gender": "women",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Bone Ivory",
+        "hex": "#EDE8DF"
+      },
+      {
+        "name": "Slate Gray",
+        "hex": "#373A40"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 29,
+    "stock": 18,
+    "material": "100% Heavyweight Cotton Fleece (400 GSM)",
+    "fit": "Generous oversized fit",
+    "careInstructions": [
+      "Machine wash gentle cold"
+    ],
+    "details": [
+      "Double-layer fleece hood",
+      "Ribbed side panel inserts"
+    ]
+  },
+  {
+    "id": "vel-w-jk-01",
+    "name": "Sculpted Hourglass Wool Blazer",
+    "slug": "sculpted-hourglass-wool-blazer",
+    "description": "Couture-inspired precision tailoring. Cut with padded structured shoulders, a nipped hourglass waist, and elongated peak lapels in rich Italian melton wool.",
+    "price": 320,
+    "originalPrice": 375,
+    "discount": 15,
+    "category": "Jackets",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#111215"
+      },
+      {
+        "name": "Ecru Melange",
+        "hex": "#E2DDD4"
+      },
+      {
+        "name": "Toffee Brown",
+        "hex": "#634731"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 57,
+    "isNew": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 12,
+    "material": "85% Virgin Wool, 15% Polyamide / 100% Cupro Lining",
+    "fit": "Sharp tailored hourglass silhouette",
+    "careInstructions": [
+      "Specialist dry clean only"
+    ],
+    "details": [
+      "Built-in shoulder pads for clean line",
+      "Flap jet pockets",
+      "Single horn button front closure"
+    ]
+  },
+  {
+    "id": "vel-w-jk-02",
+    "name": "Belted Trench Coat in Technical Twill",
+    "slug": "belted-trench-coat-in-technical-twill",
+    "description": "A contemporary classic made from weatherproof double-weave gabardine. Detailed with storm flaps, a detachable wide waist belt, and deep raglan sleeves for easy layering.",
+    "price": 345,
+    "category": "Jackets",
+    "gender": "women",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Sandstone Khaki",
+        "hex": "#C2B69D"
+      },
+      {
+        "name": "Nightshade Navy",
+        "hex": "#171D28"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 15,
+    "material": "Waterproof Cotton-Poly Technical Twill",
+    "fit": "Longline midi length with relaxed shoulders",
+    "careInstructions": [
+      "Dry clean recommended"
+    ],
+    "details": [
+      "Storm flap detail",
+      "Detachable buckle belt",
+      "Horn cuff straps"
+    ]
+  },
+  {
+    "id": "vel-w-tr-01",
+    "name": "Satin Fluid Palazzo Trousers",
+    "slug": "satin-fluid-palazzo-trousers",
+    "description": "High-waisted trousers cut from substantial heavy satin that cascades liquid-like down the legs. Minimal waistband with a discrete concealed side zipper.",
+    "price": 180,
+    "originalPrice": 210,
+    "discount": 14,
+    "category": "Trousers",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Liquid Pearl",
+        "hex": "#ECE8DF"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#121214"
+      },
+      {
+        "name": "Bronze Truffle",
+        "hex": "#59493B"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "stock": 16,
+    "material": "100% Heavy Crepe Back Satin",
+    "fit": "High-rise ultra wide leg",
+    "careInstructions": [
+      "Dry clean or cold delicate wash",
+      "Steam reverse side"
+    ],
+    "details": [
+      "Clean waistband without belt loops",
+      "Floor grazing hem line"
+    ]
+  },
+  {
+    "id": "vel-w-tr-02",
+    "name": "Tailored Darted Wool Cigarette Pant",
+    "slug": "tailored-darted-wool-cigarette-pant",
+    "description": "Precision darted trousers with pressed central creases and cropped ankle hems. Made with stretch virgin wool that resists creasing through long days.",
+    "price": 165,
+    "category": "Trousers",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal Black",
+        "hex": "#1C1D21"
+      },
+      {
+        "name": "Espresso",
+        "hex": "#3B2D26"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 27,
+    "isNew": false,
+    "stock": 24,
+    "material": "96% Virgin Wool, 4% Lycra",
+    "fit": "Tailored slim cigarette cut with ankle break",
+    "careInstructions": [
+      "Dry clean"
+    ],
+    "details": [
+      "Permanent front sharp creases",
+      "Concealed side pockets"
+    ]
+  },
+  {
+    "id": "vel-m-ts-03",
+    "name": "Aura Washed Distressed Longsleeve",
+    "slug": "aura-washed-distressed-longsleeve",
+    "description": "Artisanal enzyme-washed long sleeve with subtle raw-edge distressing at the cuffs and hem. Soft-spun organic slub cotton with an authentic vintage hand-feel.",
+    "price": 95,
+    "category": "T-Shirts",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Washed Black",
+        "hex": "#28292C"
+      },
+      {
+        "name": "Dust Taupe",
+        "hex": "#9E948B"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 18,
+    "isNew": true,
+    "stock": 20,
+    "material": "100% Organic Slub Cotton (240 GSM)",
+    "fit": "Relaxed drop-shoulder long sleeve",
+    "careInstructions": [
+      "Machine wash cold with like colors"
+    ],
+    "details": [
+      "Subtle micro-abrasions",
+      "Thumbhole detail at interior cuff"
+    ]
+  },
+  {
+    "id": "vel-m-ts-04",
+    "name": "Aura Sculpted Muscle Tee",
+    "slug": "aura-sculpted-muscle-tee",
+    "description": "Sleeveless architectural tee with padded structured shoulder inserts. Cut from ultra-dense cotton jersey for an imposing, forward-leaning street silhouette.",
+    "price": 70,
+    "originalPrice": 85,
+    "discount": 17,
+    "category": "T-Shirts",
+    "gender": "men",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0D0E10"
+      },
+      {
+        "name": "Chalk White",
+        "hex": "#F6F5F2"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 21,
+    "isFeatured": false,
+    "stock": 15,
+    "material": "100% Combed Heavy Cotton",
+    "fit": "Straight boxy cut with shoulder accentuation",
+    "careInstructions": [
+      "Cold wash",
+      "Lay flat to dry"
+    ],
+    "details": [
+      "Hidden removable shoulder pads",
+      "Reinforced armhole bindings"
+    ]
+  },
+  {
+    "id": "vel-m-sh-03",
+    "name": "Band Collar Raw Silk Shirt",
+    "slug": "band-collar-raw-silk-shirt",
+    "description": "Crafted from textured noil raw silk with subtle slub grain. Features a neat grandad collar, clean covered placket, and Mother of Pearl buttons.",
+    "price": 175,
+    "category": "Shirts",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Natural Sand",
+        "hex": "#DED5C7"
+      },
+      {
+        "name": "Onyx",
+        "hex": "#141416"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 16,
+    "isNew": true,
+    "stock": 12,
+    "material": "100% Raw Silk Noil",
+    "fit": "Clean tailored drape",
+    "careInstructions": [
+      "Dry clean or cold hand wash"
+    ],
+    "details": [
+      "Covered concealed button placket",
+      "Mother of Pearl buttons"
+    ]
+  },
+  {
+    "id": "vel-m-jk-03",
+    "name": "Waxed Cotton Utility Field Jacket",
+    "slug": "waxed-cotton-utility-field-jacket",
+    "description": "Heritage military field jacket reimagined with clean contemporary geometry. Treated with British Halley Stevensons dry wax for stormproof durability.",
+    "price": 295,
+    "originalPrice": 340,
+    "discount": 13,
+    "category": "Jackets",
+    "gender": "men",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Deep Olive",
+        "hex": "#374135"
+      },
+      {
+        "name": "Asphalt Black",
+        "hex": "#1B1C1E"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 33,
+    "isFeatured": true,
+    "stock": 14,
+    "material": "Dry Waxed Cotton Canvas / Corduroy Collar",
+    "fit": "Relaxed utilitarian layer",
+    "careInstructions": [
+      "Sponge clean with cold water only",
+      "Do not machine wash or dry clean"
+    ],
+    "details": [
+      "Two bellows pockets",
+      "Concealed storm flap with brass snaps"
+    ]
+  },
+  {
+    "id": "vel-w-tp-03",
+    "name": "Fine Merino Wool Turtleneck",
+    "slug": "fine-merino-wool-turtleneck",
+    "description": "Spun from 16-micron extrafine Australian Merino wool. Featherlight, breathable, and designed with a seamless neck tube that holds its structure without slouching.",
+    "price": 140,
+    "category": "Tops",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#101012"
+      },
+      {
+        "name": "Heather Clay",
+        "hex": "#9E7E73"
+      },
+      {
+        "name": "Winter Cloud",
+        "hex": "#D8D8DC"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 51,
+    "isBestSeller": true,
+    "stock": 25,
+    "material": "100% Extrafine Merino Wool (16-micron)",
+    "fit": "Fitted silhouette with gentle stretch",
+    "careInstructions": [
+      "Hand wash cold in wool detergent",
+      "Dry flat"
+    ],
+    "details": [
+      "Fully fashioned seamless knit",
+      "Ribbed cuffs and hem"
+    ]
+  },
+  {
+    "id": "vel-w-tp-04",
+    "name": "Corset Seamed Poplin Blouse",
+    "slug": "corset-seamed-poplin-blouse",
+    "description": "Sculptural poplin top featuring tailored vertical boning lines, billowy bishop sleeves, and an open sweetheart neckline that frames the collarbone.",
+    "price": 155,
+    "originalPrice": 180,
+    "discount": 14,
+    "category": "Tops",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      {
+        "name": "Crisp White",
+        "hex": "#F9F8F5"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#13151A"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 37,
+    "isNew": true,
+    "stock": 13,
+    "material": "100% Compact Organic Cotton Poplin",
+    "fit": "Fitted bodice with dramatic volume sleeves",
+    "careInstructions": [
+      "Dry clean or machine wash cold",
+      "Warm iron"
+    ],
+    "details": [
+      "Flexible internal bodice stays",
+      "Hidden side zip"
+    ]
+  },
+  {
+    "id": "vel-w-dr-03",
+    "name": "Aura Pleated Trench Shirtdress",
+    "slug": "aura-pleated-trench-shirtdress",
+    "description": "A commanding hybrid of trench coat tailoring and fluid shirtdress romance. Features sharp lapels, storm flap detail, and accordion sunray pleats through the skirt.",
+    "price": 285,
+    "originalPrice": 330,
+    "discount": 14,
+    "category": "Dresses",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Caramel Taupe",
+        "hex": "#9E8165"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#121214"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 5,
+    "reviewCount": 26,
+    "isNew": true,
+    "isFeatured": true,
+    "stock": 10,
+    "material": "Twill Poly-Rayon with Sunray Heat Pleating",
+    "fit": "Belted waist with midi swing skirt",
+    "careInstructions": [
+      "Dry clean only to maintain pleats"
+    ],
+    "details": [
+      "Removable belt with metal eyelets",
+      "Contrast tortoiseshell buttons"
+    ]
+  },
+  {
+    "id": "vel-w-dr-04",
+    "name": "Bias-Cut Silk Slip Dress",
+    "slug": "bias-cut-silk-slip-dress",
+    "description": "The 90s minimalism pinnacle. Cut strictly on the 45-degree true bias to hug contours without clinging. Scooped back and whisper-thin rouleau straps.",
+    "price": 215,
+    "category": "Dresses",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Silver Frost",
+        "hex": "#D2D3D6"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#101012"
+      },
+      {
+        "name": "Emerald Forest",
+        "hex": "#1B3B2B"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 48,
+    "isBestSeller": true,
+    "stock": 19,
+    "material": "100% Sandwashed Silk Charmeuse (19mm)",
+    "fit": "Bias cut fluid drape",
+    "careInstructions": [
+      "Dry clean only"
+    ],
+    "details": [
+      "Adjustable sliders on delicate straps",
+      "French seam finishing throughout"
+    ]
+  },
+  {
+    "id": "vel-w-jk-03",
+    "name": "Shearling Trimmed Aviator Jacket",
+    "slug": "shearling-trimmed-aviator-jacket",
+    "description": "A daring cropped aviator crafted in faux cracked vintage leather with ultra-plush cream sherpa collar, cuffs, and interior lining. Features double throat latch buckles.",
+    "price": 290,
+    "originalPrice": 340,
+    "discount": 15,
+    "category": "Jackets",
+    "gender": "women",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      {
+        "name": "Aged Espresso & Cream",
+        "hex": "#3B2921"
+      },
+      {
+        "name": "All Black",
+        "hex": "#151517"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 35,
+    "isFeatured": true,
+    "stock": 8,
+    "material": "Distressed Vegan Leather Shell / Plush Faux Sherpa",
+    "fit": "Boxy cropped aviator fit",
+    "careInstructions": [
+      "Wipe clean with damp cloth",
+      "Do not wash"
+    ],
+    "details": [
+      "Heavy-duty asymmetric front zipper",
+      "Twin collar buckle straps"
+    ]
+  },
+  {
+    "id": "vel-m-tr-03",
+    "name": "Technical Cargo Relaxed Pant",
+    "slug": "technical-cargo-relaxed-pant",
+    "description": "Sleek matte cargo trousers engineered with ergonomic knee articulation and magnetic-closure 3D side pockets. Bungee toggles at the hem allow instant transition between wide and jogger cuffs.",
+    "price": 165,
+    "category": "Trousers",
+    "gender": "men",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#141416"
+      },
+      {
+        "name": "Military Sage",
+        "hex": "#41483D"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 31,
+    "isNew": true,
+    "stock": 23,
+    "material": "92% Matte Nylon, 8% Spandex DWR finish",
+    "fit": "Relaxed articulated fit with adjustable cuffs",
+    "careInstructions": [
+      "Machine wash cold",
+      "Tumble dry low"
+    ],
+    "details": [
+      "Fidlock style magnetic cargo closures",
+      "Adjustable cord-lock hems"
+    ]
+  },
+  {
+    "id": "vel-w-jn-03",
+    "name": "Slit Hem Flared Denim",
+    "slug": "slit-hem-flared-denim",
+    "description": "Slim fit through the thighs opening up into an exaggerated bell flare at the knee with an inner ankle split to highlight your footwear.",
+    "price": 185,
+    "originalPrice": 215,
+    "discount": 14,
+    "category": "Jeans",
+    "gender": "women",
+    "sizes": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "colors": [
+      {
+        "name": "Mid Indigo Wash",
+        "hex": "#3B4E6B"
+      },
+      {
+        "name": "Washed Charcoal",
+        "hex": "#323438"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 42,
+    "isNew": true,
+    "stock": 19,
+    "material": "98% Cotton, 2% Elastane",
+    "fit": "Fitted thigh with flared split bottom",
+    "careInstructions": [
+      "Cold wash inside-out"
+    ],
+    "details": [
+      "6\" interior ankle vent",
+      "High rise waistband contouring"
+    ]
+  }
+]

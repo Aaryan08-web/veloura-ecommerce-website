@@ -1,0 +1,6 @@
+{
+  "name": "VELOURA",
+  "description": "Wear Your Aura — Premium modern fashion e-commerce platform featuring curated men's and women's collections, editorial styling, and effortless shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
